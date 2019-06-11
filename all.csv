@@ -6,120 +6,117 @@ Engagement","Recruiting (0=no,
 1=yes)","Total 
 Alumni",Prior Year Giving (FY18),"Prior 
 3-year Giving ",Prior 10-Year,GIK,"Sponsored 
-Research/Grants $",Score,
+Research/Grants $",Score
 "PricewaterhouseCoopers 
-(PwC)",0,4,0,3,2,1,4,3,4,3,0,0,24,
-Deloitte Consulting LLP,0,4,0,3,1,1,4,2,4,3,0,0,22,
-Hilton Worldwide,0,2,0,4,1,1,4,3,4,3,0,0,22,
-IBM Corp.,4,4,0,0,1,1,4,1,3,3,0,0,21,
-Wyndham Worldwide,0,4,2,1,0,1,4,2,4,3,0,0,21,
-EY (Ernst & Young),0,4,0,0,1,1,4,3,4,1,0,0,18,
-Fidelity Investments,0,2,0,1,0,1,4,3,4,3,0,0,18,
-Johnson & Johnson,0,4,0,0,0,1,4,2,4,3,0,0,18,
-Marriott (p),0,4,0,0,0,1,4,2,4,3,0,0,18,
-Verizon,4,4,2,0,0,1,4,0,1,2,0,0,18,
-Accenture PLC,0,4,0,1,0,1,4,2,3,2,0,0,17,
-"Goldman Sachs Group, Inc.",0,1,0,0,1,1,4,3,4,3,0,0,17,
-SC Johnson,0,2,0,0,0,1,3,4,4,3,0,0,17,
-SC Johnson & Son Inc. ,0,1,0,0,0,1,3,4,4,4,0,0,17,
-Corning Incorporated,1,4,0,1,0,1,4,2,2,1,0,0,16,
-General Electric,0,1,0,0,0,1,4,3,4,3,0,0,16,
-Citigroup Inc.,0,4,0,0,0,1,4,1,2,3,0,0,15,
-Corning,1,4,0,0,0,1,4,2,2,1,0,0,15,
-Expedia,0,4,0,1,0,1,4,0,2,3,0,0,15,
-Google,0,4,0,0,1,1,4,2,2,1,0,0,15,
-Hyatt (c),0,2,0,0,0,1,3,2,4,3,0,0,15,
-La Salle Hotel Properties,1,4,0,0,0,1,4,1,1,3,0,0,15,
-MasterCard,0,3,0,0,0,1,3,1,1,2,0,4,15,
-Procter & Gamble Co. ,1,4,0,0,0,1,4,1,2,2,0,0,15,
-Wells Fargo,0,3,0,0,0,1,4,2,2,3,0,0,15,
-Barclays PLC,0,1,0,1,1,1,4,1,3,2,0,0,14,
-A.T. Kearney,0,3,0,0,0,1,3,0,4,2,0,0,13,
-Amazon,0,4,2,0,0,1,4,0,1,1,0,0,13,
-American Express Company,1,2,0,0,0,1,4,1,1,2,0,0,12,
+(PwC)",0,4,0,3,2,1,4,3,4,3,0,0,24
+Deloitte Consulting LLP,0,4,0,3,1,1,4,2,4,3,0,0,22
+Hilton Worldwide,0,2,0,4,1,1,4,3,4,3,0,0,22
+IBM Corp.,4,4,0,0,1,1,4,1,3,3,0,0,21
+Wyndham Worldwide,0,4,2,1,0,1,4,2,4,3,0,0,21
+EY (Ernst & Young),0,4,0,0,1,1,4,3,4,1,0,0,18
+Fidelity Investments,0,2,0,1,0,1,4,3,4,3,0,0,18
+Johnson & Johnson,0,4,0,0,0,1,4,2,4,3,0,0,18
+Marriott (p),0,4,0,0,0,1,4,2,4,3,0,0,18
+Verizon,4,4,2,0,0,1,4,0,1,2,0,0,18
+Accenture PLC,0,4,0,1,0,1,4,2,3,2,0,0,17
+"Goldman Sachs Group, Inc.",0,1,0,0,1,1,4,3,4,3,0,0,17
+SC Johnson,0,2,0,0,0,1,3,4,4,3,0,0,17
+SC Johnson & Son Inc. ,0,1,0,0,0,1,3,4,4,4,0,0,17
+Corning Incorporated,1,4,0,1,0,1,4,2,2,1,0,0,16
+General Electric,0,1,0,0,0,1,4,3,4,3,0,0,16
+Citigroup Inc.,0,4,0,0,0,1,4,1,2,3,0,0,15
+Corning,1,4,0,0,0,1,4,2,2,1,0,0,15
+Expedia,0,4,0,1,0,1,4,0,2,3,0,0,15
+Google,0,4,0,0,1,1,4,2,2,1,0,0,15
+Hyatt (c),0,2,0,0,0,1,3,2,4,3,0,0,15
+La Salle Hotel Properties,1,4,0,0,0,1,4,1,1,3,0,0,15
+MasterCard,0,3,0,0,0,1,3,1,1,2,0,4,15
+Procter & Gamble Co. ,1,4,0,0,0,1,4,1,2,2,0,0,15
+Wells Fargo,0,3,0,0,0,1,4,2,2,3,0,0,15
+Barclays PLC,0,1,0,1,1,1,4,1,3,2,0,0,14
+A.T. Kearney,0,3,0,0,0,1,3,0,4,2,0,0,13
+Amazon,0,4,2,0,0,1,4,0,1,1,0,0,13
+American Express Company,1,2,0,0,0,1,4,1,1,2,0,0,12
 "Capital One Financial 
-Corporation",0,0,0,0,0,1,4,2,4,1,0,0,12,
-"CBRE Group, Inc.",0,2,0,1,0,1,4,2,2,0,0,0,12,
-JPMorgan Chase & Co.,0,1,0,0,2,1,4,1,1,2,0,0,12,
-Microsoft Corporation,0,3,0,0,0,1,4,1,2,1,0,0,12,
-"Pfizer, Inc.",0,1,0,1,1,1,4,1,2,1,0,0,12,
-Bristol-Myers Squibb,0,3,0,0,0,1,4,0,2,1,0,0,11,
-Credit Suisse Group,0,0,0,0,2,1,4,2,2,0,0,0,11,
-Deutsche Bank AG,0,2,0,0,0,1,4,1,1,2,0,0,11,
-Intel Corporation,1,1,0,0,0,1,4,1,1,2,0,0,11,
-Pfizer,1,1,0,0,0,1,4,1,2,1,0,0,11,
-Starwood Hotels & Resorts,0,0,0,1,0,1,3,0,4,2,0,0,11,
-Tata Consultancy (c),0,4,0,0,0,0,3,0,2,2,0,0,11,
-Access Point Financial  (c),0,0,0,0,0,0,1,2,4,3,0,0,10,
-Bain & Company,0,4,0,0,0,1,4,0,0,1,0,0,10,
-Taj Hotels Resorts and Palaces  (c),0,0,0,0,0,1,3,0,3,3,0,0,10,
-Blackstone,0,1,0,0,1,1,3,1,1,1,0,0,9,
-Choice Hotels International ,0,1,0,0,0,1,3,1,1,2,0,0,9,
-McKinsey & Company,0,3,0,0,0,1,4,0,1,0,0,0,9,
-Wayfair,0,4,0,0,0,1,4,0,0,0,0,0,9,
-Workday,2,3,0,0,0,0,4,0,0,0,0,0,9,
-BlackRock,0,0,0,0,1,1,4,0,1,1,0,0,8,
-Boeing,1,0,0,0,0,1,4,1,1,0,0,0,8,
-IHG (c),0,0,0,0,0,0,2,2,4,0,0,0,8,
-KPMG,0,1,0,0,0,1,3,1,1,1,0,0,8,
-Morgan Stanley,0,0,0,0,0,1,4,0,2,1,0,0,8,
-Starbucks,0,1,0,0,0,1,3,1,1,0,1,0,8,
-Target Corporation,1,0,0,0,0,1,3,0,0,0,0,3,8,
-Aramark,0,2,0,0,0,1,2,0,1,1,0,0,7,
-eBay Inc.,0,1,0,0,0,1,3,0,1,1,0,0,7,
-Hillstone Restaurant Group,0,4,0,0,0,1,2,0,0,0,0,0,7,
-Oracle,0,1,0,0,0,1,4,0,0,1,0,0,7,
-Salesforce,1,0,0,0,0,0,4,0,1,1,0,0,7,
-Apple,0,0,0,0,0,1,4,0,0,1,0,0,6,
-AT&T,0,0,0,0,0,1,4,0,0,1,0,0,6,
-Boehringer Ingelheim,0,2,0,0,0,1,3,0,0,0,0,0,6,
-Boston Consulting Group (BCG),0,1,0,0,0,1,4,0,0,0,0,0,6,
-"Guggenheim Partners, LLC",0,2,0,0,0,1,3,0,0,0,0,0,6,
-Hotelplanner (c),0,0,0,0,0,0,1,0,3,2,0,0,6,
-LinkedIn,0,0,0,0,0,0,4,1,1,0,0,0,6,
-Booz Allen Hamilton,0,0,0,0,0,1,4,0,0,0,0,0,5,
-Facebook,0,0,0,0,0,1,4,0,0,0,0,0,5,
-MGM  (p),0,2,0,0,0,0,3,0,0,0,0,0,5,
-Uber,0,0,0,0,0,0,4,0,0,1,0,0,5,
-"Walmart Stores, Inc.",0,0,0,0,0,1,3,0,1,0,0,0,5,
-Accor (p),0,0,0,0,0,0,4,0,0,0,0,0,4,
-Comcast / NBC Universal,0,0,0,0,0,1,3,0,0,0,0,0,4,
-CVS,0,0,0,0,0,1,3,0,0,0,0,0,4,
-Estee Lauder,0,0,0,0,0,1,3,0,0,0,0,0,4,
-Infosys,0,0,0,0,0,0,2,0,0,2,0,0,4,
-Nestle,0,0,0,0,0,1,3,0,0,0,0,0,4,
-Samsung,0,0,0,0,0,0,3,0,1,0,0,0,4,
-Siemens - US,0,0,0,0,0,1,3,0,0,0,0,0,4,
-WeWork,0,0,0,0,0,1,3,0,0,0,0,0,4,
-Airbnb,0,0,0,0,0,0,3,0,0,0,0,0,3,
-Alibaba,0,0,0,0,0,1,2,0,0,0,0,0,3,
-Melia (P),0,0,0,0,0,0,3,0,0,0,0,0,3,
-Peninsula Hotels (also known as Hong Kong and Shanghai Hotels)  (p),0,0,0,0,0,1,2,0,0,0,0,0,3,
-Restaurant Brands International,0,0,0,0,0,1,2,0,0,0,0,0,3,
-Tesla,0,0,0,0,0,0,3,0,0,0,0,0,3,
-Constellation Brands,0,0,0,0,0,0,2,0,0,0,0,0,2,
-Darden Restaurants,0,0,0,0,0,0,1,0,0,1,0,0,2,
-Robert W. Baird & Co. Inc.,0,0,0,0,0,1,1,0,0,0,0,0,2,
-Tencent,0,0,0,0,0,0,2,0,0,0,0,0,2,
-ANF Group Inc. Construction and Development,0,0,0,0,0,0,1,0,0,0,0,0,1,
-Brookfield Properties / Brookwood Hotels,0,0,0,0,0,0,1,0,0,0,0,0,1,
-Chobani,0,0,0,0,0,0,1,0,0,0,0,0,1,
-Crimson Rock Cap,0,0,0,0,0,0,1,0,0,0,0,0,1,
-DPR Construction ,0,0,0,0,0,0,1,0,0,0,0,0,1,
-Durst Organization,0,0,0,0,0,0,1,0,0,0,0,0,1,
-Equity Multiple,0,0,0,0,0,0,1,0,0,0,0,0,1,
-G4 Capital,0,0,0,0,0,0,1,0,0,0,0,0,1,
-Gatehouse Capital,0,0,0,0,0,0,1,0,0,0,0,0,1,
-Housing Trust Group (HTG),0,0,0,0,0,0,1,0,0,0,0,0,1,
-Inspire Brands,0,0,0,0,0,0,1,0,0,0,0,0,1,
-KEF / Katerra,0,0,0,0,0,0,1,0,0,0,0,0,1,
-LWHA,0,0,0,0,0,0,1,0,0,0,0,0,1,
-Miami Worldcenter,0,0,0,0,0,0,1,0,0,0,0,0,1,
-PKF O'Connor Davies,0,0,0,0,0,0,1,0,0,0,0,0,1,
-The Palace Group,0,0,0,0,0,0,1,0,0,0,0,0,1,
-Time Hotel / Dream Hotel Group,0,0,0,0,0,0,1,0,0,0,0,0,1,
-Turnberry Associates,0,0,0,0,0,0,1,0,0,0,0,0,1,
-Yainlain,0,0,0,0,0,0,1,0,0,0,0,0,1,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
+Corporation",0,0,0,0,0,1,4,2,4,1,0,0,12
+"CBRE Group, Inc.",0,2,0,1,0,1,4,2,2,0,0,0,12
+JPMorgan Chase & Co.,0,1,0,0,2,1,4,1,1,2,0,0,12
+Microsoft Corporation,0,3,0,0,0,1,4,1,2,1,0,0,12
+"Pfizer, Inc.",0,1,0,1,1,1,4,1,2,1,0,0,12
+Bristol-Myers Squibb,0,3,0,0,0,1,4,0,2,1,0,0,11
+Credit Suisse Group,0,0,0,0,2,1,4,2,2,0,0,0,11
+Deutsche Bank AG,0,2,0,0,0,1,4,1,1,2,0,0,11
+Intel Corporation,1,1,0,0,0,1,4,1,1,2,0,0,11
+Pfizer,1,1,0,0,0,1,4,1,2,1,0,0,11
+Starwood Hotels & Resorts,0,0,0,1,0,1,3,0,4,2,0,0,11
+Tata Consultancy (c),0,4,0,0,0,0,3,0,2,2,0,0,11
+Access Point Financial  (c),0,0,0,0,0,0,1,2,4,3,0,0,10
+Bain & Company,0,4,0,0,0,1,4,0,0,1,0,0,10
+Taj Hotels Resorts and Palaces  (c),0,0,0,0,0,1,3,0,3,3,0,0,10
+Blackstone,0,1,0,0,1,1,3,1,1,1,0,0,9
+Choice Hotels International ,0,1,0,0,0,1,3,1,1,2,0,0,9
+McKinsey & Company,0,3,0,0,0,1,4,0,1,0,0,0,9
+Wayfair,0,4,0,0,0,1,4,0,0,0,0,0,9
+Workday,2,3,0,0,0,0,4,0,0,0,0,0,9
+BlackRock,0,0,0,0,1,1,4,0,1,1,0,0,8
+Boeing,1,0,0,0,0,1,4,1,1,0,0,0,8
+IHG (c),0,0,0,0,0,0,2,2,4,0,0,0,8
+KPMG,0,1,0,0,0,1,3,1,1,1,0,0,8
+Morgan Stanley,0,0,0,0,0,1,4,0,2,1,0,0,8
+Starbucks,0,1,0,0,0,1,3,1,1,0,1,0,8
+Target Corporation,1,0,0,0,0,1,3,0,0,0,0,3,8
+Aramark,0,2,0,0,0,1,2,0,1,1,0,0,7
+eBay Inc.,0,1,0,0,0,1,3,0,1,1,0,0,7
+Hillstone Restaurant Group,0,4,0,0,0,1,2,0,0,0,0,0,7
+Oracle,0,1,0,0,0,1,4,0,0,1,0,0,7
+Salesforce,1,0,0,0,0,0,4,0,1,1,0,0,7
+Apple,0,0,0,0,0,1,4,0,0,1,0,0,6
+AT&T,0,0,0,0,0,1,4,0,0,1,0,0,6
+Boehringer Ingelheim,0,2,0,0,0,1,3,0,0,0,0,0,6
+Boston Consulting Group (BCG),0,1,0,0,0,1,4,0,0,0,0,0,6
+"Guggenheim Partners, LLC",0,2,0,0,0,1,3,0,0,0,0,0,6
+Hotelplanner (c),0,0,0,0,0,0,1,0,3,2,0,0,6
+LinkedIn,0,0,0,0,0,0,4,1,1,0,0,0,6
+Booz Allen Hamilton,0,0,0,0,0,1,4,0,0,0,0,0,5
+Facebook,0,0,0,0,0,1,4,0,0,0,0,0,5
+MGM  (p),0,2,0,0,0,0,3,0,0,0,0,0,5
+Uber,0,0,0,0,0,0,4,0,0,1,0,0,5
+"Walmart Stores, Inc.",0,0,0,0,0,1,3,0,1,0,0,0,5
+Accor (p),0,0,0,0,0,0,4,0,0,0,0,0,4
+Comcast / NBC Universal,0,0,0,0,0,1,3,0,0,0,0,0,4
+CVS,0,0,0,0,0,1,3,0,0,0,0,0,4
+Estee Lauder,0,0,0,0,0,1,3,0,0,0,0,0,4
+Infosys,0,0,0,0,0,0,2,0,0,2,0,0,4
+Nestle,0,0,0,0,0,1,3,0,0,0,0,0,4
+Samsung,0,0,0,0,0,0,3,0,1,0,0,0,4
+Siemens - US,0,0,0,0,0,1,3,0,0,0,0,0,4
+WeWork,0,0,0,0,0,1,3,0,0,0,0,0,4
+Airbnb,0,0,0,0,0,0,3,0,0,0,0,0,3
+Alibaba,0,0,0,0,0,1,2,0,0,0,0,0,3
+Melia (P),0,0,0,0,0,0,3,0,0,0,0,0,3
+Peninsula Hotels (also known as Hong Kong and Shanghai Hotels)  (p),0,0,0,0,0,1,2,0,0,0,0,0,3
+Restaurant Brands International,0,0,0,0,0,1,2,0,0,0,0,0,3
+Tesla,0,0,0,0,0,0,3,0,0,0,0,0,3
+Constellation Brands,0,0,0,0,0,0,2,0,0,0,0,0,2
+Darden Restaurants,0,0,0,0,0,0,1,0,0,1,0,0,2
+Robert W. Baird & Co. Inc.,0,0,0,0,0,1,1,0,0,0,0,0,2
+Tencent,0,0,0,0,0,0,2,0,0,0,0,0,2
+ANF Group Inc. Construction and Development,0,0,0,0,0,0,1,0,0,0,0,0,1
+Brookfield Properties / Brookwood Hotels,0,0,0,0,0,0,1,0,0,0,0,0,1
+Chobani,0,0,0,0,0,0,1,0,0,0,0,0,1
+Crimson Rock Cap,0,0,0,0,0,0,1,0,0,0,0,0,1
+DPR Construction ,0,0,0,0,0,0,1,0,0,0,0,0,1
+Durst Organization,0,0,0,0,0,0,1,0,0,0,0,0,1
+Equity Multiple,0,0,0,0,0,0,1,0,0,0,0,0,1
+G4 Capital,0,0,0,0,0,0,1,0,0,0,0,0,1
+Gatehouse Capital,0,0,0,0,0,0,1,0,0,0,0,0,1
+Housing Trust Group (HTG),0,0,0,0,0,0,1,0,0,0,0,0,1
+Inspire Brands,0,0,0,0,0,0,1,0,0,0,0,0,1
+KEF / Katerra,0,0,0,0,0,0,1,0,0,0,0,0,1
+LWHA,0,0,0,0,0,0,1,0,0,0,0,0,1
+Miami Worldcenter,0,0,0,0,0,0,1,0,0,0,0,0,1
+PKF O'Connor Davies,0,0,0,0,0,0,1,0,0,0,0,0,1
+The Palace Group,0,0,0,0,0,0,1,0,0,0,0,0,1
+Time Hotel / Dream Hotel Group,0,0,0,0,0,0,1,0,0,0,0,0,1
+Turnberry Associates,0,0,0,0,0,0,1,0,0,0,0,0,1
+Yainlain,0,0,0,0,0,0,1,0,0,0,0,0,1
